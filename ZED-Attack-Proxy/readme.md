@@ -1,7 +1,7 @@
 
 
 # scripts
-Description
+
 I created this script as a side project at work. What it does:
 
 1. Opens ZAP if it is not already open.
