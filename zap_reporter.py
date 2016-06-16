@@ -13,7 +13,7 @@ from email import encoders
 import commands
 import os
 import fileinput
-
+ 
 #Start ZAP is if it is not already started
 
 output = commands.getoutput('ps aux | grep java')
