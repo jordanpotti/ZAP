@@ -1,3 +1,3 @@
 # scripts
 
-This is just a collection of mostly useless but not useless scripts I have created or modified.
+Zep Attack Proxy Python program that interacts via the ZAP API in order to automate scans and reporting.
